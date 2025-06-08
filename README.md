@@ -7,7 +7,7 @@ und zum Senden der Daten per LoRa an eine Gegenstelle.
 Hardware:  LILYGO TTGO ESP32 LoRa32 V2.1.6
 ![Mikroprozessor](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Ensor-eRS801/blob/main/pics/TTGO_ESP32_LoRa_V2_pinout_pinmap.jpg)
 
-
+ 
 In der Spezifikation des P1 Port des Smartmeters steht:
 "5.7.2 Data line specification
 Due to the use of optocouplers, the “Data” line must be designed as an OC (Open Collector) output, the Data line must be logically inverted."
@@ -16,6 +16,7 @@ Die meisten ESP32 Mikrocontroller haben Hardware-Unterstützung für die Inverti
 
 Schaltplan Signal-Umkehrer:
 ![Signal-Umkehrer](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Ensor-eRS801/blob/main/pics/schaltplan-mit-transistor.jpg)
+ 
  
 Fertige Lösung mit 3D-gedrucktem Gehäuse:
 ![Gehaeuse](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Ensor-eRS801/blob/main/pics/e450-Leser-gh.jpg)
