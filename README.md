@@ -4,7 +4,7 @@ Lesen von Zeit, bezogener elektrischer Leistung und eingespeister elektrischer L
 Das Projekt dient zum Auslesen eines Ensor eRS801 Smartmeters (Stromzähler)
 und zum Senden der Daten per LoRa an eine Gegenstelle.
 
-##Hardware:  LILYGO TTGO ESP32 LoRa32 V2.1.6
+## Hardware:  LILYGO TTGO ESP32 LoRa32 V2.1.6
 ![Mikroprozessor](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Ensor-eRS801/blob/main/pics/TTGO_ESP32_LoRa_V2_pinout_pinmap.jpg)
 
  
