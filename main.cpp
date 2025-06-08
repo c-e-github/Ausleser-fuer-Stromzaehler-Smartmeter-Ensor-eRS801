@@ -1,5 +1,3 @@
-// copyright c-e 
-
 #include <Adafruit_SSD1306.h>
 #include <Arduino.h>
 #include <SPI.h>
