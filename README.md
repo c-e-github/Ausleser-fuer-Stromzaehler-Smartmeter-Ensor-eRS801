@@ -17,11 +17,10 @@ Die meisten ESP32 Mikrocontroller haben Hardware-Unterstützung für die Inverti
 ### Schaltplan Signal-Umkehrer:
 ![Signal-Umkehrer](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Ensor-eRS801/blob/main/pics/schaltplan-mit-transistor.jpg)
   
-(Bei mir sind die 3 Kabel zwischen Stromzähler und ESP32 sind ca. 2,5 m lang. Anfangs wurden die Daten vom ESP32 nur unzuverlässig erfasst - das Verdrillen der 3 Kabel miteinander brachte Abhilfe. Zusätzlich habe ich Alufolie um die Kabel gewickelt.)
-
-
-  
   
 ### Fertige Lösung mit 3D-gedrucktem Gehäuse:
 ![Gehaeuse](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Ensor-eRS801/blob/main/pics/e450-Leser-gh.jpg)
+
+  
+(Bei mir sind die 3 Kabel zwischen Stromzähler und ESP32 sind ca. 2,5 m lang. Anfangs wurden die Daten vom ESP32 nur unzuverlässig erfasst - das Verdrillen der 3 Kabel miteinander brachte Abhilfe. Zusätzlich habe ich Alufolie um die Kabel gewickelt.)
 
