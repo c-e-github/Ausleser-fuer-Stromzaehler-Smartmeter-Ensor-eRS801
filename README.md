@@ -2,7 +2,7 @@
 Lesen von Zeit, bezogener elektrischer Leistung und eingespeister elektrischer Leistung über die P1 Kundenschnittstelle des Smartmeters.
 
 Das Projekt dient zum Auslesen eines Ensor eRS801 Smartmeters (Stromzähler)
-und zum Senden der Daten per LoRa an eine Gegenstelle.
+und zum Senden der Daten per LoRa an eine Gegenstelle (Eine Steuerung für eine Balkonsolaranlage mit Batteriespeicher. Das Projekt dazu ist hier zu finden: https://github.com/c-e-github/LoraDTU).
 
 ### Hardware:  LILYGO TTGO ESP32 LoRa32 V2.1.6
 ![Mikroprozessor](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Ensor-eRS801/blob/main/pics/TTGO_ESP32_LoRa_V2_pinout_pinmap.jpg)
